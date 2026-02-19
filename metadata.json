@@ -1,0 +1,5 @@
+{
+  "name": "Petro Ecol Dashboard",
+  "description": "Industrial attendance dashboard for Petro Ecol SRL consuming Google Sheets data.",
+  "requestFramePermissions": []
+}
